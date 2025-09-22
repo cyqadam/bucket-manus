@@ -1,6 +1,6 @@
 package com.bucket.manus.agent;
 
-import com.bucket.cloud.ai.advisor.MyLoggerAdvisor;
+import com.bucket.manus.advisor.MyLoggerAdvisor;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.tool.ToolCallback;
